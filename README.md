@@ -1,2 +1,1 @@
-# first-project
-# first-project
+Одностраничный сайт Яндекс Практикум first_project
